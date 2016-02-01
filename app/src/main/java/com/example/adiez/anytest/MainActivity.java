@@ -19,6 +19,10 @@ public class MainActivity extends AppCompatActivity {
     public void m01(){}
 
 
+    public void newCool(){
+
+    }
+
 
 
 
