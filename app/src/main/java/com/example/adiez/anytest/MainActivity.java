@@ -10,18 +10,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-    int o=mass("adsd").total;
+
 
     }
 
-    @Textdtd(info="asdasd")
-    public void Mass(){
-
+    public void fasdf(){
+            //sdfsdfsdfsdfsdfsdfsdf
     }
 
-    public Car mass(String total){
-        return new Car();
-
-    }
 
 }
