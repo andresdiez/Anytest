@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
             //sdfsdfsdfsdfsdfsdfsdf
     }
 
+    public void A01(){
+        //sdfsdfsdfsdfsdfsdfsdf
+    }
 
 }
