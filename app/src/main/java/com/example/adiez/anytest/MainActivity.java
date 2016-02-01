@@ -18,7 +18,13 @@ public class MainActivity extends AppCompatActivity {
             //sdfsdfsdfsdfsdfsdfsdf
     }
 
+
     public void masterfeature(){}
+
+
+    public void A01(){
+        //sdfsdfsdfsdfsdfsdfsdf
+    }
 
 
 }
