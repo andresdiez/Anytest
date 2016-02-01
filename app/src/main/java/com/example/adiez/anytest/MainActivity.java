@@ -14,24 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void fasdf(){
-            //sdfsdfsdfsdfsdfsdfsdf
-    }
 
-
-    public void masterfeature(){}
-
-
-    public void A01(){
-        //sdfsdfsdfsdfsdfsdfsdf
-    }
-
-    public void A02(){
-        //sdfsdfsdfsdfsdfsdfsdf
-    }
-    public void A03(){
-        //sdfsdfsdfsdfsdfsdfsdf
-    }
 
 
 }
